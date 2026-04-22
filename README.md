@@ -1,4 +1,4 @@
-## Hi there 👋
+## A static webpage about the mysterious disappearance of scientists involved in anti-gravity research.
 
 <!--
 **missingscientists/missingscientists** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
